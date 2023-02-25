@@ -3,5 +3,6 @@ public class Deneme {
         System.out.println("Merhaba");
         System.out.println("dunya");
         System.out.println("deneme");
+        //test deneme
     }
 }
