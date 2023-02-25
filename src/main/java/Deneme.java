@@ -4,5 +4,6 @@ public class Deneme {
         System.out.println("dunya");
         System.out.println("deneme");
         //test deneme
+        //git deneme
     }
 }
